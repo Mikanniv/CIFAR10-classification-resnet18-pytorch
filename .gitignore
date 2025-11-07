@@ -3,3 +3,28 @@
 .idea/
 __pycache__/
 *.pyc
+
+# IDE 文件
+*.iml
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac OS
+.DS_Store
+
+# PyTorch / training
+*.pth
+runs/
+checkpoints/
+
+# TensorBoard
+events.out.tfevents.*
+
+# 大数据文件
+*.tar.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
